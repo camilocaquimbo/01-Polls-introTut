@@ -1,0 +1,6 @@
+Tutorial de sistema de encuestas (Polls) de la doc oficial de Django
+- https://docs.djangoproject.com/en/3.0/intro/
+- admin: admin / pw: camilote
+- tuve problemas con la ejecución del admin, al parecer la versión 3.7.4 que tengo no alcanza a soportar la última versión de Django
+- actualicé a la versión de Python 3.8.1 y funcionó el admin en Django 3
+- Funcionó mejor para leer la bd "dev.db" que "db.sqlite3", esta última no la leyó el plugin de lectura SQLITE EXPLORER
